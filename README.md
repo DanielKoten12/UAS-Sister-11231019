@@ -113,5 +113,5 @@ Angka bisa berbeda tergantung spesifikasi laptop, mode logging, dan apakah dijal
 Tautan video YouTube unlisted/publik:
 
 ```text
-
+https://youtu.be/G4sh6Q4qcfw
 ```
